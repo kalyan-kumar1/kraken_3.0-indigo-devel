@@ -1,3 +1,2 @@
-These packages open the cameras of the vehicle.
-
-If motherboard is not able to run two cameras then it can be switched.
+Add any action file for IP task here.
+Additional package required is actionlib.

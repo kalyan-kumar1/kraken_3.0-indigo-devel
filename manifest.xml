@@ -1,18 +1,17 @@
 <package>
-  <description brief="bottomcam">
+  <description brief="actionmsg">
 
-     bottomcam
+     actionmsg
 
   </description>
   <author>Madhukar</author>
   <license>BSD</license>
   <review status="unreviewed" notes=""/>
-  <url>http://ros.org/wiki/bottomcam</url>
-  <depend package="roscpp"/>
+  <url>http://ros.org/wiki/actionmsg</url>
+  <depend package="actionlib"/>
+  <depend package="actionlib_msgs"/>
   <depend package="std_msgs"/>
-  <depend package="image_transport"/>
-  <depend package="cv_bridge"/>
-  <depend package="resources"/>
-  <depend package="rostest"/>
 
 </package>
+
+
